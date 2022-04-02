@@ -2,7 +2,7 @@
 layout: post
 title: Better codebases
 tags: Writes
-time: Apr 03, 2022
+time: Apr 02, 2022
 ---
 
 ![bees]({{site.baseurl}}/assets/bees.jpg)
